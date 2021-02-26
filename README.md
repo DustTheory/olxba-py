@@ -11,11 +11,12 @@ Python API for retrieving information from olx.ba
 ### Authentication
 
 An olx.ba account is needed for this API to work. Authenticate by passing your login info to the OlxScraper constructor like so:
-`
+
+```
 from OlxScraper import OlxScraper
 
 parser = OlxScraper('username', 'password')
-`
+```
 ### Documentation
 
 **search**(searchText, sortOrder, sortBy, category, id, condition, page)
