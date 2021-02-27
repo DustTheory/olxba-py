@@ -5,7 +5,7 @@ setup(
     url='https://github.com/ishakd00/olxba-py',
     author='Ishak Dervisevic',
     author_email='email@ishakdervisevic.com',
-    packages=['olxba-py'],
+    packages=['olxba-'],
     install_requires=['pyquery'],
     version='0.1',
     license='MIT',

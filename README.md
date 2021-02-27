@@ -6,7 +6,7 @@ Python API for retrieving information from olx.ba
 * Install by simply running:
 
 ```
-pip install git+https://github.com/ishakd00/olxba-py.git@v0.1
+pip install git+https://github.com/ishakd00/olxba-py.git
 ```
 
 ## Usage
