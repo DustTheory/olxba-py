@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name='olxba-py',
+    name='olxba',
     url='https://github.com/ishakd00/olxba-py',
     author='Ishak Dervisevic',
     author_email='email@ishakdervisevic.com',
-    packages=['olxba-'],
+    packages=['olxba'],
     install_requires=['pyquery'],
     version='0.1',
     license='MIT',
