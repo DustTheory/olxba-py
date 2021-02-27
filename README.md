@@ -3,8 +3,11 @@ Python API for retrieving information from olx.ba
 
 ## Installation
 
-* Make sure dependencies are installed with:
-  `pip install -r requirements.txt`
+* Install by simply running:
+
+```
+pip install git+https://github.com/ishakd00/olxba-py.git@v0.1
+```
 
 ## Usage
 
