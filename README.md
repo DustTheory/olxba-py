@@ -13,12 +13,12 @@ pip install git+https://github.com/ishakd00/olxba-py.git
 
 ### Authentication
 
-An olx.ba account is needed for this API to work. Authenticate by passing your login info to the OlxScraper constructor like so:
+An olx.ba account is needed for this API to work. Authenticate by passing your login info to the OlxAPI constructor like so:
 
 ```
-from olxba import OlxScraper
+from olxba import OlxAPI 
 
-parser = OlxScraper('username', 'password')
+parser = OlxAPI ('username', 'password')
 ```
 ### Documentation
 

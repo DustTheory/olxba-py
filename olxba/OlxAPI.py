@@ -21,7 +21,7 @@ class OlxListing:
 
         self.otherProperties = {**listingDetails}
 
-class OlxScraper:
+class OlxAPI:
     def __init__(self, username, password):
         self.session = requests.session()
         self.authenticate(username, password)
